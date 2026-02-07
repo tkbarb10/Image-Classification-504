@@ -1,5 +1,6 @@
 # personal files
 data/images/
+data/arrays/train/
 experiments/
 models/
 Paola_s_Final_Notebook.ipynb
@@ -75,6 +76,10 @@ ipython_config.py
 # OS
 .DS_Store
 Thumbs.db
+nul
+
+# Claude Code
+.claude/
 
 # mypy
 .mypy_cache/

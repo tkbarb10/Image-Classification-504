@@ -1,0 +1,12 @@
+[project]
+name = "ads504-final"
+version = "0.1.0"
+description = "Detecting AI-generated images from real photographs using classical ML and deep learning approaches."
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = []
+authors = [
+    { name = "Taylor Kirk", email = "tkirk@sandiego.edu" },
+    { name = "Tommy Baron", email = "tbarron@sandiego.edu" },
+    { name = "Paola Rodriguez", email = "prodriguez2@sandiego.edu" },
+]
