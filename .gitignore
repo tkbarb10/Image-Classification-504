@@ -1,11 +1,21 @@
-# personal files
-data/images/
-data/arrays/train/
-experiments/
-models/
+# personal notebooks
 Paola_s_Final_Notebook.ipynb
 Paola_s_Notebook-2.ipynb
 Taylors_notebook.ipynb
+
+# data (images and arrays now on Hugging Face)
+data/images/
+data/arrays/
+
+# model artifacts and experiments
+experiments/
+models/
+
+# TensorBoard logs
+logs/
+
+# one-time scripts
+scripts/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
