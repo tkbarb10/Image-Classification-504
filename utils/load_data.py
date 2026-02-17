@@ -38,7 +38,7 @@ def load_arrays(
         y = np.array(labels)
     else:
         ds = load_dataset(repo_id, split=split)
-        X = np.stack([np.array(ex["image"]) for ex in ds])
+        X = np.stack([np.array(ex["image"]) for ex in ds]) # type: ignore
         y = np.array(ds["label"])
 
     return X, y
